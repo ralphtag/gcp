@@ -1,3 +1,5 @@
+name: 'Ansible Install Run'
+
 on:
   workflow_dispatch:
 
